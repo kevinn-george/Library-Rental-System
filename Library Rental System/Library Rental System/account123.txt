@@ -1,0 +1,3 @@
+b111 password
+g0011 pizza
+b0102 book
